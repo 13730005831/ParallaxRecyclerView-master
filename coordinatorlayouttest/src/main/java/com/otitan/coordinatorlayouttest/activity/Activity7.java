@@ -14,5 +14,6 @@ public class Activity7 extends AppCompatActivity {
         setContentView(R.layout.activity_7);
         MyApplication application = new MyApplication();
         int anInt = application.getInt();
+        //测试修改
     }
 }
